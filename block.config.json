@@ -1,0 +1,9 @@
+{
+  "name": "47f",
+  "type": "package",
+  "blockId": "BzMiltVc51GkSedOIYfG7",
+  "source": {
+    "https": "https://github.com/Digambaran/47f",
+    "ssh": "git@github.com:Digambaran/47f.git"
+  }
+}
